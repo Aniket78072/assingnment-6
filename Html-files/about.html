@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>About</title>
+ <style>
+  body {
+  font-family: Arial, sans-serif;
+  background: #f4f4f4;
+  text-align: center;
+  
+}
+
+h1 {
+  color: #333;
+}
+
+
+*{
+      margin: 0;
+      padding: 0;
+    }
+    h1{
+       display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 20px;
+    border-bottom: 2px solid black;
+    font-size: 100px;
+    }
+    nav{
+      background-color: cornflowerblue;
+      display: flex;
+      justify-content: right;
+      gap: 20px;
+      
+      
+
+    }
+    nav li{
+      list-style: none;
+      padding: 8px;
+      transition: transform .2s;
+      margin: 10px;
+      
+
+
+    }
+    a{
+      text-decoration: none;
+      font-size: large;
+    }
+    nav li:hover{
+      transform: scale(1.1);
+      cursor: pointer;
+      border-bottom: 1px solid black;
+    }
+    .background{
+      margin-top: 250px;
+    }
+ </style>
+</head>
+<body>
+ 
+  <nav>
+     <li><a href="/home">Home</a></li> 
+   <li> <a href="/about">About</a></li> 
+   <li><a href="/contact">Contact</a></li> 
+    <li> <a href="/hhh">Page don't exist</a></li>
+  </nav>
+  <div class="background">
+  <h1>About us page</h1>
+  <p>This page tells you more about us.</p>
+  </div>
+</body>
+</html>
