@@ -1,7 +1,25 @@
 # Assignment 6 - Node.js Web Application
 
 ## Project Overview
-This is a Node.js web application  that serves static HTML pages. The application includes a server setup with routing capabilities and serves multiple HTML pages including home, about, contact, and 404 error pages.
+This is a Node.js web application that serves static HTML pages. The application includes a server setup with routing capabilities and serves multiple HTML pages including home, about, contact, and 404 error pages.
+
+## Screenshots
+Here are some screenshots of the application:
+
+### Treminal view Page
+![Terminal view Page](screenshots/Screenshot%202025-08-19%20185944.png)
+
+### Home Page
+![Home Page](screenshots/Screenshot%202025-08-20%20124612.png)
+
+### About us Page
+![About us Page](screenshots/Screenshot%202025-08-20%20124647.png)
+
+### Contact Page
+![Contact Page](screenshots/Screenshot%202025-08-20%20124706.png)
+
+### 404page Views
+![404page View ](screenshots/Screenshot%202025-08-20%20124720.png)
 
 ## Project Structure
 ```
@@ -13,6 +31,7 @@ This is a Node.js web application  that serves static HTML pages. The applicatio
 server/
 │       ├── server.js      # Main server 
 │       └── routes.js      # Route definitions
+├── screenshots/           # Application screenshots
 ├── package.json          # Project configuration and dependencies
 └── README.md            # Project documentation
 ```
@@ -26,7 +45,6 @@ server/
 
 ## Technologies Used
 - **Node.js**: JavaScript runtime environment
-
 - **HTML5**: Markup language for web pages
 - **CSS3**: Styling for web pages
 - **JavaScript**: Client-side scripting
