@@ -6,20 +6,20 @@ This is a Node.js web application that serves static HTML pages. The application
 ## Screenshots
 Here are some screenshots of the application:
 
-### Treminal view Page
-![Terminal view Page](screenshots/Screenshot%202025-08-19%20185944.png)
+### Terminal View
+![Terminal View](screenshots/Screenshot%202025-08-19%20185944.png)
 
 ### Home Page
 ![Home Page](screenshots/Screenshot%202025-08-20%20124612.png)
 
-### About us Page
-![About us Page](screenshots/Screenshot%202025-08-20%20124647.png)
+### About Us Page
+![About Us Page](screenshots/Screenshot%202025-08-20%20124647.png)
 
 ### Contact Page
 ![Contact Page](screenshots/Screenshot%202025-08-20%20124706.png)
 
-### 404page Views
-![404page View ](screenshots/Screenshot%202025-08-20%20124720.png)
+### 404 Error Page
+![404 Error Page](screenshots/Screenshot%202025-08-20%20124720.png)
 
 ## Project Structure
 ```
